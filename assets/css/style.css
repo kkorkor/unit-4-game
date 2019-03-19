@@ -1,0 +1,166 @@
+
+
+body {
+    background-image: url(../images/background.jpg);
+    
+}
+#container{
+    width: 700px;
+    height: 100%;
+}
+#title {
+    border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+    color: white;
+    background-color: orange
+	
+	
+}
+
+#instruction {
+    float: left;
+    width: 480px;
+    height: 400px;
+	background-color: antiquewhite;
+    border-style: solid;
+    padding-left: 12px;
+	border-width: 0.8px;
+	border-color: grey;
+	padding-right: 10px;
+    height: auto;
+    width: 100%;
+
+}
+
+#instructions {
+    font-weight: bold;
+	font-family: arial;
+	color: forestgreen;
+    height: auto;
+    width: 100%;
+}
+
+#randombk  {
+
+	background-color: yellowgreen;
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+    height: 160px;
+    width: 100%;
+}
+
+#wl-back {
+
+	background-color: powderblue;
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+	padding-right: 10px;
+    height: auto;
+    width: 100%;
+
+}
+
+}
+#score1{
+    height: 50px;
+	width: 50px;
+    height: auto;
+    float: left;
+    background: turquoise;
+}
+#totalScore {
+    background-color: teal;
+    color: white;
+    font-family: arial;
+	font-size: 300px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	margin-bottom: 75px;
+   
+
+}
+
+#numGuess {
+
+	color: slateblue;
+	font-family: arial;
+    font-weight: bold;
+    position: left;
+}
+
+#randomNumber {
+
+	color: purple;
+	font-size: 40px;
+}
+
+#wins {
+
+	color: navy;
+	font-weight: bold;
+    font-family: arial;
+    position: left;
+}
+
+#losses {
+
+	color: navy;
+	font-weight: bold;
+    font-family: arial;
+    position: left;
+}
+
+.txt {
+
+color: white;
+font-weight: bold;
+font-family: arial;
+position: left;
+}
+.crystals {
+
+	height: 50px;
+    width: 100%;
+    margin-top: 20px;
+	
+}
+#cry-pic {
+
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 0.5px;
+    border-color: grey;
+    position: left;
+}
+#img1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#img2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#img3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#img4{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
